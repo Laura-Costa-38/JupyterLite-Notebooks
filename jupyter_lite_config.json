@@ -1,0 +1,7 @@
+{
+  "LiteBuildConfig": {
+    "ignore_files": [
+      ".ipynb_checkpoints"
+    ]
+  }
+}
